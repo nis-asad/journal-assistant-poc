@@ -1,0 +1,6 @@
+.env
+requirements.txt
+DS_Store
+__pycache__/
+backend/.env
+backend/__pycache__/
